@@ -1,4 +1,4 @@
-# qtweetbot
+# qtweetbot Jan 2020
 
 Simple twitter bot for posting quotes each day.
 
